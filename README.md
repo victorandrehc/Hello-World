@@ -1,0 +1,1 @@
+Hello World project to train adding recipes on yocto rasp project
